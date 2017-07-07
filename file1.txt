@@ -1,4 +1,6 @@
 File1.txt
 1 edit made.
+2 edits made.
+3 edits made.
 End.
 
